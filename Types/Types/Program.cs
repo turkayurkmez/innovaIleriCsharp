@@ -63,6 +63,8 @@ namespace Types
             baklava.Pisir();
             Console.ReadLine();
 
+            new Student().Address.City
+
         }
     }
 }
