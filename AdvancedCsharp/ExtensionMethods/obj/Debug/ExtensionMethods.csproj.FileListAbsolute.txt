@@ -1,0 +1,10 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\AdvancedCsharp\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\AdvancedCsharp\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\AdvancedCsharp\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\AdvancedCsharp\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\AdvancedCsharp\ExtensionMethods\obj\Debug\ExtensionMethods.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\AdvancedCsharp\ExtensionMethods\obj\Debug\ExtensionMethods.Properties.Resources.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\AdvancedCsharp\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\AdvancedCsharp\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\AdvancedCsharp\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\AdvancedCsharp\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
