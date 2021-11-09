@@ -1,0 +1,10 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\EventMechanism\bin\Debug\EventMechanism.exe.config
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\EventMechanism\bin\Debug\EventMechanism.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\EventMechanism\bin\Debug\EventMechanism.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\EventMechanism\obj\Debug\EventMechanism.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\EventMechanism\obj\Debug\EventMechanism.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\EventMechanism\obj\Debug\EventMechanism.Properties.Resources.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\EventMechanism\obj\Debug\EventMechanism.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\EventMechanism\obj\Debug\EventMechanism.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\EventMechanism\obj\Debug\EventMechanism.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\EventMechanism\obj\Debug\EventMechanism.pdb

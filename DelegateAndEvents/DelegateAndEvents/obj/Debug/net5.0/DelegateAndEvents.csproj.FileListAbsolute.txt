@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\DelegateAndEvents.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\DelegateAndEvents.deps.json
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\DelegateAndEvents.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\DelegateAndEvents.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\DelegateAndEvents.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\ref\DelegateAndEvents.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\bin\Debug\net5.0\DelegateAndEvents.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\ref\DelegateAndEvents.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\DelegateAndEvents\DelegateAndEvents\obj\Debug\net5.0\DelegateAndEvents.genruntimeconfig.cache
