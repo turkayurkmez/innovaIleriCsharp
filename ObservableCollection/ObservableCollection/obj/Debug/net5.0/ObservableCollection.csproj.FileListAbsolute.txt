@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\bin\Debug\net5.0\ObservableCollection.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\bin\Debug\net5.0\ObservableCollection.deps.json
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\bin\Debug\net5.0\ObservableCollection.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\bin\Debug\net5.0\ObservableCollection.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\bin\Debug\net5.0\ObservableCollection.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\bin\Debug\net5.0\ref\ObservableCollection.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\bin\Debug\net5.0\ObservableCollection.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\obj\Debug\net5.0\ObservableCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\obj\Debug\net5.0\ObservableCollection.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\obj\Debug\net5.0\ObservableCollection.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\obj\Debug\net5.0\ObservableCollection.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\obj\Debug\net5.0\ObservableCollection.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\obj\Debug\net5.0\ref\ObservableCollection.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\obj\Debug\net5.0\ObservableCollection.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\ObservableCollection\ObservableCollection\obj\Debug\net5.0\ObservableCollection.genruntimeconfig.cache
