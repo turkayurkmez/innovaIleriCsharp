@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OperatorOverloadingAndIndex/1.0.0": {
+        "runtime": {
+          "OperatorOverloadingAndIndex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OperatorOverloadingAndIndex/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

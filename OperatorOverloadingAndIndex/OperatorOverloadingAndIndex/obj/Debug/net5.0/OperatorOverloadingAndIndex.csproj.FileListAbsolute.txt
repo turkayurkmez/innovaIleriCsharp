@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\bin\Debug\net5.0\OperatorOverloadingAndIndex.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\bin\Debug\net5.0\OperatorOverloadingAndIndex.deps.json
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\bin\Debug\net5.0\OperatorOverloadingAndIndex.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\bin\Debug\net5.0\OperatorOverloadingAndIndex.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\bin\Debug\net5.0\OperatorOverloadingAndIndex.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\bin\Debug\net5.0\ref\OperatorOverloadingAndIndex.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\bin\Debug\net5.0\OperatorOverloadingAndIndex.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\obj\Debug\net5.0\OperatorOverloadingAndIndex.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\obj\Debug\net5.0\OperatorOverloadingAndIndex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\obj\Debug\net5.0\OperatorOverloadingAndIndex.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\obj\Debug\net5.0\OperatorOverloadingAndIndex.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\obj\Debug\net5.0\OperatorOverloadingAndIndex.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\obj\Debug\net5.0\OperatorOverloadingAndIndex.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\obj\Debug\net5.0\ref\OperatorOverloadingAndIndex.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\obj\Debug\net5.0\OperatorOverloadingAndIndex.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\OperatorOverloadingAndIndex\OperatorOverloadingAndIndex\obj\Debug\net5.0\OperatorOverloadingAndIndex.genruntimeconfig.cache
