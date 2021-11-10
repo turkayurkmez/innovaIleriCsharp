@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\CustomAttribute\CustomAttribute\bin\Debug\CustomAttribute.exe.config
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\CustomAttribute\CustomAttribute\bin\Debug\CustomAttribute.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\CustomAttribute\CustomAttribute\bin\Debug\CustomAttribute.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\CustomAttribute\CustomAttribute\obj\Debug\CustomAttribute.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\CustomAttribute\CustomAttribute\obj\Debug\CustomAttribute.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\CustomAttribute\CustomAttribute\obj\Debug\CustomAttribute.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\CustomAttribute\CustomAttribute\obj\Debug\CustomAttribute.pdb
