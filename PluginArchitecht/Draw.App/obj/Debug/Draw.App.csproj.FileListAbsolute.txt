@@ -1,0 +1,13 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\bin\Debug\Draw.App.exe.config
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\bin\Debug\Draw.App.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\bin\Debug\Draw.App.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\bin\Debug\Draw.SDK.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\bin\Debug\Draw.SDK.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\obj\Debug\Draw.App.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\obj\Debug\Draw.App.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\obj\Debug\Draw.App.Properties.Resources.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\obj\Debug\Draw.App.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\obj\Debug\Draw.App.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\obj\Debug\Draw.App.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\obj\Debug\Draw.App.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.App\obj\Debug\Draw.App.pdb

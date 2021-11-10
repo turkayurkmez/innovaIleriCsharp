@@ -1,0 +1,8 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.Plugins\bin\Debug\Draw.Plugins.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.Plugins\bin\Debug\Draw.Plugins.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.Plugins\bin\Debug\Draw.SDK.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.Plugins\bin\Debug\Draw.SDK.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.Plugins\obj\Debug\Draw.Plugins.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.Plugins\obj\Debug\Draw.Plugins.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.Plugins\obj\Debug\Draw.Plugins.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\PluginArchitecht\Draw.Plugins\obj\Debug\Draw.Plugins.pdb
