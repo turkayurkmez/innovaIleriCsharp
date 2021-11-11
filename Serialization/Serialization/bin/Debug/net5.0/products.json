@@ -1,0 +1,1 @@
+[{"Name":"X","Price":100.0,"Description":"Test x","Comments":[{"Id":0,"CommentText":"Ok"},{"Id":0,"CommentText":"Done"}]},{"Name":"Y","Price":50.0,"Description":"Test y","Comments":[{"Id":0,"CommentText":"Failed"},{"Id":0,"CommentText":"Success"}]}]
