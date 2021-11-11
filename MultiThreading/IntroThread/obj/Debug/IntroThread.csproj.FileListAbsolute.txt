@@ -1,0 +1,10 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\IntroThread\bin\Debug\IntroThread.exe.config
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\IntroThread\bin\Debug\IntroThread.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\IntroThread\bin\Debug\IntroThread.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\IntroThread\obj\Debug\IntroThread.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\IntroThread\obj\Debug\IntroThread.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\IntroThread\obj\Debug\IntroThread.Properties.Resources.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\IntroThread\obj\Debug\IntroThread.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\IntroThread\obj\Debug\IntroThread.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\IntroThread\obj\Debug\IntroThread.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\IntroThread\obj\Debug\IntroThread.pdb

@@ -1,0 +1,16 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\bin\Debug\net5.0\LockingThread.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\bin\Debug\net5.0\LockingThread.deps.json
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\bin\Debug\net5.0\LockingThread.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\bin\Debug\net5.0\LockingThread.runtimeconfig.dev.json
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\bin\Debug\net5.0\LockingThread.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\bin\Debug\net5.0\ref\LockingThread.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\bin\Debug\net5.0\LockingThread.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\obj\Debug\net5.0\LockingThread.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\obj\Debug\net5.0\LockingThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\obj\Debug\net5.0\LockingThread.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\obj\Debug\net5.0\LockingThread.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\obj\Debug\net5.0\LockingThread.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\obj\Debug\net5.0\LockingThread.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\obj\Debug\net5.0\ref\LockingThread.dll
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\obj\Debug\net5.0\LockingThread.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\MultiThreading\LockingThread\obj\Debug\net5.0\LockingThread.genruntimeconfig.cache
