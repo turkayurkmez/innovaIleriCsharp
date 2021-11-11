@@ -60,8 +60,9 @@ namespace Draw.SDK
                 plug = new Plug();
                 plug.FullName = type.FullName;
                 plug.Path = file;
-                object instance = Activator.CreateInstance(type);
-                plug.Name = (string)instance.GetType().InvokeMember("Name", BindingFlags.GetProperty, null, instance, null);
+                dynamic instance = Activator.CreateInstance(type);
+                //plug.Name = (string)instance.GetType().InvokeMember("Name", BindingFlags.GetProperty, null, instance, null);
+                plug.Name = instance.Name;
 
             }
             return plug;

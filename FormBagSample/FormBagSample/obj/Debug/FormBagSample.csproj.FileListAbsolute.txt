@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\FormBagSample\FormBagSample\bin\Debug\FormBagSample.exe.config
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\FormBagSample\FormBagSample\bin\Debug\FormBagSample.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\FormBagSample\FormBagSample\bin\Debug\FormBagSample.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\FormBagSample\FormBagSample\obj\Debug\FormBagSample.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\FormBagSample\FormBagSample\obj\Debug\FormBagSample.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\FormBagSample\FormBagSample\obj\Debug\FormBagSample.Form2.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\FormBagSample\FormBagSample\obj\Debug\FormBagSample.Properties.Resources.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\FormBagSample\FormBagSample\obj\Debug\FormBagSample.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\FormBagSample\FormBagSample\obj\Debug\FormBagSample.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\FormBagSample\FormBagSample\obj\Debug\FormBagSample.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\FormBagSample\FormBagSample\obj\Debug\FormBagSample.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\FormBagSample\FormBagSample\obj\Debug\FormBagSample.Form3.resources

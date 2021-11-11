@@ -1,0 +1,7 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\IntroDynamic\IntroDynamic\bin\Debug\IntroDynamic.exe.config
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\IntroDynamic\IntroDynamic\bin\Debug\IntroDynamic.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\IntroDynamic\IntroDynamic\bin\Debug\IntroDynamic.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\IntroDynamic\IntroDynamic\obj\Debug\IntroDynamic.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\IntroDynamic\IntroDynamic\obj\Debug\IntroDynamic.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\IntroDynamic\IntroDynamic\obj\Debug\IntroDynamic.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\IntroDynamic\IntroDynamic\obj\Debug\IntroDynamic.pdb

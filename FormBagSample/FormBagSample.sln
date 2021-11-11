@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormBagSample", "FormBagSample\FormBagSample.csproj", "{43101D82-1186-4900-A7D5-A330F71AA6DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43101D82-1186-4900-A7D5-A330F71AA6DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43101D82-1186-4900-A7D5-A330F71AA6DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43101D82-1186-4900-A7D5-A330F71AA6DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43101D82-1186-4900-A7D5-A330F71AA6DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA659AD2-2E61-4A5B-812E-42F16E2270A3}
+	EndGlobalSection
+EndGlobal
