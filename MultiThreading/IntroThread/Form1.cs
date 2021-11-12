@@ -5,6 +5,7 @@ using System.Data;
 using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
+using System.Net.Http;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
@@ -41,14 +42,14 @@ namespace IntroThread
         Thread thread = null;
         private void buttonMulti_Click(object sender, EventArgs e)
         {
-            
-            thread = new Thread(new ThreadStart(counter));            
+
+            thread = new Thread(new ThreadStart(Tcounter));
             thread.Start();
-          
+
             // thread.Join();
         }
 
-        void counter()
+        void Tcounter()
         {
             stopwatch = new Stopwatch();
             stopwatch.Start();
@@ -66,7 +67,50 @@ namespace IntroThread
             {
                 thread.Abort();
             }
+
+        }
+
+        private async void buttonTask_Click(object sender, EventArgs e)
+        {
+
+           await counter();
+            MessageBox.Show("Görevler bitti");
+
            
+
+        }
+
+        async Task counter()
+        {
+            for (int j = 0; j < 3; j++)
+            {
+                await Task.Run(() =>
+                {
+                    for (int i = 0; i <= 5000; i++)
+                    {
+                        labelTask.Text = i.ToString();
+                    }
+                });
+                MessageBox.Show("Ok");  
+            }
+        }
+
+        private async void button2_Click(object sender, EventArgs e)
+        {
+            HttpClient httpClient = new HttpClient();
+            label1.Text = "Yükleniyor...";
+
+            var response = httpClient.GetAsync("https://swapi.dev/api/people/1").Result;
+            Thread.Sleep(5000);
+            label1.Text = "Yüklendi";
+            var result  =  response.Content.ReadAsStringAsync().Result;
+            richTextBoxResponse.Text = result;
+
+        }
+
+        private async Task CloseMessage()
+        {
+            //Bir form kapatılıyor!
         }
     }
 }

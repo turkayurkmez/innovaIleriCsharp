@@ -1,0 +1,10 @@
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\SlotMakinesi\SlotMakinesi\bin\Debug\SlotMakinesi.exe.config
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\SlotMakinesi\SlotMakinesi\bin\Debug\SlotMakinesi.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\SlotMakinesi\SlotMakinesi\bin\Debug\SlotMakinesi.pdb
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\SlotMakinesi\SlotMakinesi\obj\Debug\SlotMakinesi.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\SlotMakinesi\SlotMakinesi\obj\Debug\SlotMakinesi.Form1.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\SlotMakinesi\SlotMakinesi\obj\Debug\SlotMakinesi.Properties.Resources.resources
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\SlotMakinesi\SlotMakinesi\obj\Debug\SlotMakinesi.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\SlotMakinesi\SlotMakinesi\obj\Debug\SlotMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\SlotMakinesi\SlotMakinesi\obj\Debug\SlotMakinesi.exe
+C:\Users\turka\source\repos\Kurumsal\İnnova\ileriCsharp\SlotMakinesi\SlotMakinesi\obj\Debug\SlotMakinesi.pdb
